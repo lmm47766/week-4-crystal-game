@@ -1,0 +1,101 @@
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+#h1{
+	color: #7cfcff;
+	margin-top: 0px;
+	text-align: center;
+}
+
+#h2{
+	color: green;
+	margin-top: 0px;
+	text-align: center;
+}
+
+#Rules{
+	width: 100%;
+	color: white;
+	border-style: dashed;
+	border-radius: 5px;
+	border-color: green;
+	margin: 10px auto;
+	padding: 20px;
+}
+
+#images{
+
+}
+
+#image1, #image2, #image3, #image4 {
+	width: 25%;
+	border-style: border box;
+	/*margin: 0;*/
+
+}	
+
+#image1 {
+	border: 5px dotted darkorange;
+	border-radius: 10px;
+}
+
+#image2 {
+	border: 5px dotted green;
+	border-radius: 10px;
+}
+
+#image3 {
+	border: 5px dotted yellow;
+	border-radius: 10px;
+}
+
+#image4 {
+	border: 5px dotted pink;
+	border-radius: 10px;
+}
+
+#stats {
+	text-align: center;
+	border-color: #7cfcff;
+	border-style: dashed;
+	border-radius: 5px;
+	margin: 10px auto;
+	width: 100%;
+	padding: 0;
+	padding-top: 4px;
+
+}
+
+#Word, #Win, #Lose, #ranNum, #currScore {
+	font-size: 18px;
+
+}
+
+#Win {
+	color: #00e01d;
+}
+
+#Lose{
+	color: red;
+}
+
+#ranNum{
+	color: lemonchiffon;
+}
+
+#currScore {
+	color: #fc7e00;
+
+}
+
+#result {
+	color: white;
+	line-height: initial;
+	font-size: 70px;
+	font-family: 'VT323', monospace;
+}
+
+
