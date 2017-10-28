@@ -76,18 +76,22 @@ h1{
 
 #Win {
 	color: #00e01d;
+	font-size: 20px;
 }
 
 #Lose{
 	color: red;
+	font-size: 20px;
 }
 
 #ranNum{
 	color: lemonchiffon;
+	font-size: 20px;
 }
 
 #currScore {
 	color: #fc7e00;
+	font-size: 20px;
 
 }
 
